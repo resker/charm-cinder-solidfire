@@ -44,5 +44,5 @@ Contact Information
 For issues and concerns please use the NetApp developer site and community forums.
 
 http://netapp.io/
-Ed Balduf <ed.balduf@solidfire.com>
+
 
